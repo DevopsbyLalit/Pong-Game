@@ -54,7 +54,7 @@ open game.html or use Live Server extension
 
 Pong-Game/
 │
-├── game.html
+├── index.html
 ├── style.css
 ├── script.js
 └── README.md
